@@ -114,9 +114,9 @@ I thrive at the intersection of software engineering and artificial intelligence
 
 <div align="center">
 
-![Sai Krishnaa's stats](https://github-readme-stats.vercel.app/api?username=SAIKRISHNA2005&show_icons=true&theme=radical)
+![Sai Krishnaa's stats](https://github-readme-stats.vercel.app/api?username=SAIKRISHNA2005&show_icons=true&theme=tokyonight)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=SAIKRISHNA2005&theme=radical&hide_border=false)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=SAIKRISHNA2005&theme=tokyonight&hide_border=false)](https://git.io/streak-stats)
 
 </div>
 
