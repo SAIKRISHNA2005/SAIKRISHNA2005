@@ -16,32 +16,26 @@
   </a>
 </p>
 
----
-
 </div>
+
+---
 
 ## 🧑‍💻 About Me
 
-<table>
-<tr>
-<td valign="top" width="60%">
+<img align="right" src="https://github.com/SAIKRISHNA2005/SAIKRISHNA2005/blob/562b5db1cf8e8f745fea2cf8d7131e3913fba090/dev-working_rounded.gif?raw=true" alt="Workspace" width="38%"/>
 
-Hello! I'm **Sai Krishnaa**, a passionate developer who loves turning ideas into scalable, elegant solutions. I thrive at the intersection of software engineering and artificial intelligence — building systems that don't just work, but *think*.
+Hello! I'm **Sai Krishnaa** — a developer who doesn't just write code, but architects systems that **think, scale, and solve real problems**.
 
-- 🎓 Constantly learning and evolving in the tech landscape
-- 💡 Passionate about clean code, great UX, and smart systems
-- 🌐 Full Stack Developer with a deep love for the AI/ML space
-- 🔍 Always exploring new tools, frameworks, and architectures
-- ⚡ Fun fact: I believe every bug is just a feature in disguise 😄
+I thrive at the intersection of software engineering and artificial intelligence, crafting solutions that go far beyond the surface. Whether it's a sleek frontend, a resilient backend, or an autonomous AI pipeline — I build it end-to-end.
 
-</td>
-<td valign="top" width="40%" align="center">
+- 🔭 I don't just build **websites** — I build **systems**
+- 🧠 Passionate about AI, GenAI, and the future of intelligent automation
+- 💡 I turn complex problems into clean, scalable, and elegant solutions
+- 🌱 Always learning, always shipping — consistency is my superpower
+- 🤝 Open to collaborations, research, and exciting opportunities
+- ⚡ Fun fact: I believe every bug is just a feature waiting to be understood 😄
 
-<img src="https://github.com/SAIKRISHNA2005/SAIKRISHNA2005/blob/562b5db1cf8e8f745fea2cf8d7131e3913fba090/dev-working_rounded.gif?raw=true" href="https://github.com/sp-xd" alt="Workspace" width="100%"/>
-
-</td>
-</tr>
-</table>
+<br clear="right"/>
 
 ---
 
@@ -51,21 +45,21 @@ Hello! I'm **Sai Krishnaa**, a passionate developer who loves turning ideas into
 
 ```
 ╔══════════════════════════════════════════════════════════════╗
-║   🧠  Building at the frontier of AI & Intelligent Systems   ║
+║   🧠  Building at the Frontier of AI & Intelligent Systems   ║
 ╚══════════════════════════════════════════════════════════════╝
 ```
 
 </div>
 
-> 🌟 I'm currently deep-diving into the next wave of intelligent technology:
+> 🌟 I'm deep in the AI era — not just exploring it, but engineering it:
 
-| Area | What I'm Building |
-|------|-------------------|
-| 🤖 **Generative AI** | LLM-powered applications & prompt engineering systems |
-| 🕸️ **AI Agents** | Autonomous multi-agent frameworks & agentic pipelines |
-| ⚙️ **AI Automation** | Smart workflow automation that eliminates repetitive work |
-| 🔗 **LLM Integration** | Connecting LLMs to real-world tools via APIs & RAG |
-| 🚀 **Agentic AI** | End-to-end agentic systems that plan, reason & execute |
+| Area | What I'm Engineering |
+|------|----------------------|
+| 🤖 **Generative AI** | Production-ready LLM apps with advanced prompt engineering |
+| 🕸️ **AI Agents** | Autonomous multi-agent systems with memory, planning & tool use |
+| ⚙️ **AI Automation** | Intelligent workflow automation that replaces repetitive processes |
+| 🔗 **LLM Integration** | Connecting LLMs to real-world systems via APIs, RAG & vector DBs |
+| 🚀 **Agentic AI** | End-to-end pipelines that reason, decide & execute autonomously |
 
 > *"I don't just use AI — I architect systems that leverage it."*
 
@@ -91,9 +85,9 @@ Hello! I'm **Sai Krishnaa**, a passionate developer who loves turning ideas into
 
 [![Skills](https://skillicons.dev/icons?i=mongodb,postgres,mysql,firebase,supabase,aws,gcp&perline=7)](https://skillicons.dev)
 
-**Tools & Platforms**
+**Tools, Platforms & More**
 
-[![Skills](https://skillicons.dev/icons?i=git,github,docker,vscode,postman,figma,vercel&perline=7)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=git,github,docker,vscode,postman,figma,vercel,linux,webflow,wordpress&perline=10)](https://skillicons.dev)
 
 </div>
 
@@ -105,12 +99,12 @@ Hello! I'm **Sai Krishnaa**, a passionate developer who loves turning ideas into
 
 | 🏗️ Project | 📝 Description | 🛠️ Stack |
 |------------|---------------|----------|
-| 🤖 **AI Agent Framework** | Autonomous multi-agent system with tool-use & memory | Python · LangChain · FastAPI |
-| 🌐 **Portfolio** | Personal portfolio showcasing projects & skills | Next.js · Tailwind · Vercel |
-| 📊 **GenAI Dashboard** | Real-time AI workflow monitoring & automation UI | React · Node.js · MongoDB |
-| 🔍 **RAG Pipeline** | Retrieval-Augmented Generation for intelligent Q&A | Python · LangChain · Pinecone |
+| 🗄️ **QueryForge — DB Automator** | Natural language to SQL engine that automates complex database workflows with zero manual querying | Python · FastAPI · LangChain · PostgreSQL |
+| 🤟 **BridgeSign — Sign Language Platform** | Bidirectional real-time sign language translation platform breaking communication barriers for the deaf community | Python · OpenCV · TensorFlow · React |
+| 🔬 **ScholAI — Research Assistant** | AI-powered research companion with RAG that synthesizes papers, extracts insights & answers domain-specific questions | Python · LangChain · Pinecone · Next.js |
+| 🏥 **MediMind — Medical Chatbot** | GenAI-powered healthcare assistant providing intelligent, context-aware medical guidance and symptom analysis | Python · LLM · FastAPI · React |
 
-> 👀 **Check out all my projects →** [saikrishnaa.vercel.app](https://saikrishnaa.vercel.app/)
+> 👀 **Explore all my projects →** [saikrishnaa.vercel.app](https://saikrishnaa.vercel.app/)
 
 </div>
 
@@ -124,9 +118,6 @@ Hello! I'm **Sai Krishnaa**, a passionate developer who loves turning ideas into
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=SAIKRISHNA2005&theme=radical&hide_border=false)](https://git.io/streak-stats)
 
-<!--- if needed commentout this top languages used stats 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SAIKRISHNA2005&layout=compact&theme=radical)](https://github.com/SAIKRISHNA2005) --->
-
 </div>
 
 ---
@@ -135,7 +126,7 @@ Hello! I'm **Sai Krishnaa**, a passionate developer who loves turning ideas into
 
 <div align="center">
 
-I'm always open to interesting conversations, collaborations, and opportunities. Let's build something awesome together! 🚀
+I'm always open to interesting conversations, collaborations, and new opportunities. Got an idea? Let's build it together. 🚀
 
 <p>
   <a href="https://www.linkedin.com/in/saikrishnaa0304/" target="_blank">
@@ -158,10 +149,5 @@ I'm always open to interesting conversations, collaborations, and opportunities.
 <div align="center">
 
 ### ✨ *"Every day is a chance to build something meaningful — keep learning, keep shipping."* ✨
-
-<br/>
-
-<!--- if needed commentout this for showing visitor count
-![Visitor Count](https://komarev.com/ghpvc/?username=SAIKRISHNA2005&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS) ---> 
 
 </div>
